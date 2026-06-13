@@ -64,7 +64,7 @@ I'm most interesting in conversations where disciplines don't usually meet.
 
 ### Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vidisha%20Jain-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidishajain](https://www.linkedin.com/in/vidisha-jain/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vidisha%20Jain-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vidishajain](https://www.linkedin.com/in/vidisha-jain/)
 [![Imperial College](https://img.shields.io/badge/Imperial%20College%20London-MSc%20Economics%20%26%20Strategy-003E74?style=flat)](https://www.imperial.ac.uk/business-school)
 
 ---
