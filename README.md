@@ -26,16 +26,16 @@ My long-term focus is building a venture in India, somewhere at the intersection
 
 ### What I've built
 
-| Project | What it is | Stack |
+| 🗂️ Project | 💡 What it is | 🔧 Stack |
 |---|---|---|
-| **Nouri** | A nutrition lookup web app, built as a non-technical founder | Claude API, HTML/CSS/JS |
-| **Email Automation** | Automated outbound email workflows for the founder's office at Avegen | No-code / automation tools |
+| **Nouri** | A nutrition lookup web app, built as a non-technical founder | Claude API · HTML · CSS · JS |
+| **Email Automation** | Automated outbound email workflows for the founder's office at Avegen | No-code · Automation tools |
 
 ---
 
 ### What I'm building now
 
-| Project | What it is |
+| 🚧 Project | 💬 What it is |
 |---|---|
 | **IVF Companion Platform** | A matching and support platform for women navigating their IVF journey — part of a DTx spin-off in progress |
 | **Avegen Workflow Automation** | Airtable-based automation of internal operations workflows at Avegen |
@@ -44,11 +44,18 @@ My long-term focus is building a venture in India, somewhere at the intersection
 
 ---
 
-### What I'm learning
+### 🛠️ Tools & Stack
 
-```
-HTML  •  CSS  •  JavaScript  •  Python  •  Prompt Engineering  •  Product Thinking
-```
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,vscode,github,notion,figma&perline=8" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
 
 I treat technical skills the way I once treated learning to read balance sheets: a tool for the job I actually want to do.
 
